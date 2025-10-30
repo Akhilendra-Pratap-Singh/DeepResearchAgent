@@ -4,9 +4,6 @@
 > An **autonomous AI-powered research assistant** that performs *end-to-end research* — from planning and searching to report generation and emailing — powered by **multi-agent collaboration** and **LLM reasoning** using **Meta LLaMA 4 Scout (Groq API)**.
 
 ---
-
-![Deep Research AI Banner](https://cdn.jsdelivr.net/gh/abhisheknaiidu/awesome-github-profile-readme-images/banner.png)
-
 ---
 
 ## 🚀 Overview
