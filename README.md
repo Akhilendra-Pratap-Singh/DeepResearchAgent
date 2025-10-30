@@ -13,7 +13,7 @@
 Just provide a query (e.g., _"Impact of AI on carbon-neutral mining in India"_) — and it will automatically:
 
 1. 🧭 **Plan** what web searches to perform.  
-2. 🔍 **Perform** asynchronous web searches (via Tavily API).  
+2. 🔍 **Perform** asynchronous web searches.  
 3. ✍️ **Synthesize** the results into a detailed 5–10 page Markdown report.  
 4. 📧 **Email** the final report in HTML format using SendGrid.  
 5. 💻 **Display** real-time progress via a Gradio-based interface.
